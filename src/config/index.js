@@ -2,5 +2,5 @@
 
 // Settings configured here will be merged into the final config object.
 export default {
-  api: 'https://qkkdhtmucl.localtunnel.me'
+  api: 'https://lumrffawpm.localtunnel.me'
 }
